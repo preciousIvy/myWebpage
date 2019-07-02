@@ -1,0 +1,199 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body nav{
+	
+	margin: 0;
+	overflow: hidden;
+
+}
+
+body ul{
+
+	margin: 0;
+	padding: 0;
+
+	background-color: #000;
+	text-align: center;
+}
+
+body li{
+
+	display: inline-block;
+	list-style-type: none;
+}
+ body a{
+ 	color: #fff;
+ 	display: block;
+ 	padding: 20px 50px;
+ 	text-decoration: none;
+ 	
+ }
+body, html{
+	height: 100%;
+	margin: 0;
+	font-size: 16px;
+	font-family: sans-serif;
+	line-height: 1.8em;
+	font-weight: 500;
+	color: #000; 
+	align-items: center;
+	background-color: #fac1ff;
+
+
+}
+.prof{
+	border: 1px solid #ddd;
+
+	border-radius: 4%;
+	padding: 5px;
+	width: 120px
+
+}
+
+	.ti{
+		color: yellow;
+	}
+.img{
+	/*background-image:url("https://www.w3schools.com/images/picture.jpg"); */
+	background-image:url("https://duncantheeduncan.github.io/my-git-images/ivy.png"); 
+	text-align: center;
+	min-height:100%;
+	font-family: cursive;
+
+	}
+
+	/*.img1{
+		background-image:url("pics/img2.png");
+		min-height: 80%;
+	}*/
+
+	.img{
+		position: relative;
+		opacity: 0.70;
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+
+	.ptext{
+		color: #000;
+		padding-top: 150px;
+		font-size: 55px;
+		font-family: 'Roboto';
+
+}
+.title{
+	width: 160px;
+	height: 30px;
+	color: #fff;
+	background-color: #000;
+	margin: 0 460px;
+	font-size: 19px;
+	font-family: cursive;
+
+}
+.p{
+	font-size: 30px;
+	font-family: serif;
+}
+#about{
+	text-align: center;
+	background-color: #fac1ff;
+}
+
+#education{
+text-align: center;
+}
+
+.skills h2{
+	text-align: center;
+}
+
+.skills img{
+	width: 60px;
+	height: 60px;
+}
+
+	#skill{
+	
+	text-align: center;
+	color: #000;
+	font-family: sans-serif;
+	
+
+}
+#work{
+	text-align: center;
+;
+
+}
+
+#contact{
+	background-color: #fac1ff;
+	align-items: center;
+	font-style: italic;
+	text-align: center;
+	color: #000;
+	font-family: sans-serif;
+	
+
+}
+
+
+.menu{
+width: 25px;
+height: 5px;
+background-color: black;
+margin: 6px 0;
+
+}
+.footer{
+	background-color: black;
+	
+
+}
+.footer img{
+	width: 40px;
+	height: 40px;
+	align-items: center;
+	
+
+}
+.footer li{
+	display: inline-block;
+	list-style-type: none;
+	margin: 5px;
+	padding: 2px;
+}
+s.footer {
+	margin: 5px;
+}
+.cac{
+
+width: 40px;
+
+}
+.di{
+	width: 150px;
+height: 5px;
+background-color: black;
+margin: 19px 600px;
+
+
+}
+.year{
+	width: 100px;
+	height: 28px;
+	background-color: black;
+	color: white;
+	margin: 0 630px;
+}
+
+.icon{
+	width:40px;
+	height: 40px;
+}
